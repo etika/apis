@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpi (2.1.1)
+      rack
+      rubyntlm (~> 0.3.2)
+    json (2.0.2)
+    rack (2.0.5)
+    rubyntlm (0.3.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpi (~> 2.1.0)
+  json
+
+BUNDLED WITH
+   1.11.2
